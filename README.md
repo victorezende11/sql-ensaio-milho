@@ -14,6 +14,7 @@ melhoramento de milho, escritas durante meus estudos de SQL.
   - médias por híbrido e local (base para olhar a interação G×E);
   - checagem de balanceamento do ensaio (parcelas por híbrido e local);
   - produtividade de cada híbrido em % da testemunha em cada local.
+  - `pipeline_databricks.sql`: pipeline em três camadas (bronze, prata e ouro) rodado no Databricks
 
 ## Dados
 
